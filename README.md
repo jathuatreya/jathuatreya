@@ -1,3 +1,19 @@
+## Hi there 👋, My name is Jathushan Varnakulasingam  
+I am a Dedicated and Ambitious Professional Experienced in Python, Full-Stack  
+Development, Machine Learning, IoT, Networking, and Robotics. Committed to  
+continuous learning and applying cutting-edge technologies. Seeking a challenging  
+role to contribute to organizational success while advancing my skills in the dynamic  
+IT landscape.  
+
+### 🛠 Skills:
+**REACT / JS / HTML / CSS / BOOTSTRAP**  
+
+### 🚀 About Me:
+- 🌱 I’m currently pursing BSc in(HONS) **Computer Science a**  
+- 👯 I’m looking to collaborate on **Open Source Projects**  
+- 💬 Ask me about **React / HTML / CSS / JS / React Native**  
+- 📫 How to reach me: **jathuatreya@gmail.com**  
+- 😄 Pronouns: **Jathushan**  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imjathushann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_jathushan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jathushan-varnakulasingam-18a551271) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/28602925/jathushan-varnakulasingam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jathuatreya@gmail.com) 
 
