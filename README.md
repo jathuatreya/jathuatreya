@@ -6,14 +6,14 @@ role to contribute to organizational success while advancing my skills in the dy
 IT landscape.  
 
 ### 🛠 Skills:
-**REACT / JS / HTML / CSS / BOOTSTRAP**  
+**Python / Full-Stack Development / Machine Learning / IoT / Networking / Robotics**  
 
 ### 🚀 About Me:
-- 🌱 I’m currently pursing BSc in(HONS) **Computer Science a**  
+- 🌱 I’m currently pursing BSc in(HONS) **Computer Science **  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **React / HTML / CSS / JS / React Native**  
+- 💬 Ask me about **Python / Full-Stack Development / Machine Learning / IoT / Networking / Robotics** 
 - 📫 How to reach me: **jathuatreya@gmail.com**  
-- 😄 Pronouns: **Jathushan**  
+- 😄 Pronouns: **Jathu**  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imjathushann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_jathushan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jathushan-varnakulasingam-18a551271) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/28602925/jathushan-varnakulasingam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jathuatreya@gmail.com) 
 
