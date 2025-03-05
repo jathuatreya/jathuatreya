@@ -9,7 +9,7 @@ IT landscape.
 **Python / Full-Stack Development / Machine Learning / IoT / Networking / Robotics**  
 
 ### 🚀 About Me:
-- 🌱 I’m currently pursing BSc in(HONS) **Computer Science **  
+- 🌱 I’m currently pursing BSc in(HONS) **Computer Science**
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **Python / Full-Stack Development / Machine Learning / IoT / Networking / Robotics** 
 - 📫 How to reach me: **jathuatreya@gmail.com**  
